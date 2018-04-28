@@ -28,7 +28,7 @@ featureExtraction.m: generate users,products and  review feature
 	
 	finally generate 'train.txt' and 'test.txt'
 	
-example:ETF.m,WRD.m are feature calculation files
+	(example:ETF.m,WRD.m are feature calculation files, more details in the report)
 
 DAEGMM_train.py: train our model --input is 'train.txt'-- generate model parameter files in /model...
 
