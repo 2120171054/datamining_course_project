@@ -1,6 +1,7 @@
 # datamining_course_project
-predata.m:geneate 'metadata' and 'reviewContent'
+Final_report.pdf:the report of our project
 
+predata.m:geneate 'metadata' and 'reviewContent'
 
 featureExtraction.m: generate users,products and  review feature
 
